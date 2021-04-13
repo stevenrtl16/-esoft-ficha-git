@@ -1,5 +1,6 @@
 # Other files and folders
 .idea/
+target/
 
 # Executables
 *.iml
